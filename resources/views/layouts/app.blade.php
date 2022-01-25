@@ -606,7 +606,7 @@
         <!-- /LOGO -->
 
         <!-- HEADER BRAND TEXT -->
-        <h1 class="header-brand-text">APPSLEARNING</h1>
+        <h1 class="header-brand-text">KOMPEK</h1>
         <!-- /HEADER BRAND TEXT -->
       </div>
       <!-- /HEADER BRAND -->

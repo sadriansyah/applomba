@@ -1,5 +1,7 @@
-# applomba
- Elearning Gamification ITK based on laravel 8
+# Judul
+Edukasi Anak Sekolah Dasar
+#nama aplikasi
+Komputerisasi Edukasi Sekolah Dasar Balikpapan (KOMPEK)
 
 #how to use app.
 run composer install

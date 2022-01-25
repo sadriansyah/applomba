@@ -10,7 +10,7 @@
   <link rel="stylesheet" href="{{URL::asset('css/styles.min.css')}}">
   <!-- favicon -->
   <link rel="icon" href="{{URL::asset('img/favicon.ico')}}">
-  <title>App ITK</title>
+  <title>KOMPEK</title>
 </head>
 <body>
 
@@ -37,11 +37,11 @@
       <!-- /LANDING INFO PRETITLE -->
 
       <!-- LANDING INFO TITLE -->
-      <h1 class="landing-info-title" style="color:#f5dd42">Elearning</h1>
+      <h1 class="landing-info-title" style="color:#f5dd42">KOMPEK</h1>
       <!-- /LANDING INFO TITLE -->
 
       <!-- LANDING INFO TEXT -->
-      <p class="landing-info-text">Part of new style to learn</p>
+      <p class="landing-info-text">Komputerisasi Edukasi Sekolah Dasar Balikpapan</p>
       <!-- /LANDING INFO TEXT -->
 
       <!-- TAB SWITCH -->
