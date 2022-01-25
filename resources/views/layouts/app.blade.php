@@ -599,7 +599,7 @@
         <div class="logo">
           <!-- ICON LOGO VIKINGER -->
           <div class="icon-logo-vikinger small">
-            <img src="{{URL::asset('/img/funlearninglogo.png')}}" style="width:40px" alt="APPS LEARNING">
+            <img src="{{URL::asset('/img/bulletlogo.png')}}" style="width:40px" alt="APPS LEARNING">
           </div>
           <!-- /ICON LOGO VIKINGER -->
         </div>

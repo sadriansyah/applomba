@@ -9,8 +9,13 @@
   <!-- styles -->
   <link rel="stylesheet" href="{{URL::asset('css/styles.min.css')}}">
   <!-- favicon -->
-  <link rel="icon" href="{{URL::asset('img/favicon.ico')}}">
+  <link rel="icon" href="{{URL::asset('img/funlearninglogo.png')}}">
   <title>KOMPEK</title>
+  <style media="screen">
+  .form-box .form {
+      margin-top: 7px;
+    }
+  </style>
 </head>
 <body>
 
@@ -67,9 +72,8 @@
         <!-- /FORM BOX DECORATION -->
 
         <!-- FORM BOX TITLE -->
-        <h2 class="form-box-title">Account Login</h2>
+        <h2 class="form-box-title"><img src="{{URL::asset('img/funlearninglogo.png')}}"  style="bottom:0" alt=""></h2>
         <!-- /FORM BOX TITLE -->
-
 
         <!-- FORM -->
         <form class="form" method="post" action="{{url('/log')}}">
@@ -83,6 +87,7 @@
             </div>
           </div>
           @endif
+
           <!-- FORM ROW -->
           <div class="form-row">
             <!-- FORM ITEM -->
