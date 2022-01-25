@@ -42,7 +42,7 @@
       <!-- /LANDING INFO PRETITLE -->
 
       <!-- LANDING INFO TITLE -->
-      <h1 class="landing-info-title" style="color:#f5dd42">KOMPEK</h1>
+      <h1 class="landing-info-title" style="color:#fff">KOMPEK</h1>
       <!-- /LANDING INFO TITLE -->
 
       <!-- LANDING INFO TEXT -->
