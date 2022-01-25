@@ -1,5 +1,5 @@
 # applomba
- Applomba For ITK based on laravel 8
+ Elearning Gamification ITK based on laravel 8
 
 #how to use app.
 run composer install
@@ -15,4 +15,4 @@ run php artisan key:generate
 - You can register your own account through register feature
 - if you want to test with account in elearning.sql you can use
   username : siswa@gmail.com , password = 12345678 as Student
-  username : dosen@gmail.com , passwrod = 12345678 as Lecturer
+  username : dosen@gmail.com , password = 12345678 as Lecturer
