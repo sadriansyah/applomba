@@ -18,3 +18,6 @@ run php artisan key:generate
 - if you want to test with account in elearning.sql you can use
   username : siswa@gmail.com , password = 12345678 as Student
   username : dosen@gmail.com , password = 12345678 as Lecturer
+
+# Link Documentation
+here : https://drive.google.com/file/d/1RXeHLZje36bwqXd09dztk9j56eQ4QNLO/view?usp=sharing
